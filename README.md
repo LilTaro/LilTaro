@@ -52,4 +52,8 @@
   
 </div>
 
+<h2 align="left">🐍 Watch Snake Eating My Contributions</h2>
+
+![snake gif](https://github.com/LilTaro/LilTaro/blob/output/github-contribution-grid-snake.svg)
+
 ###
