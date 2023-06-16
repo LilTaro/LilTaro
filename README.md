@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">A backend developer from Turkey</h6>
+<h5 align="left">A backend developer from Turkey</h5>
 
 ###
 
@@ -10,8 +10,8 @@
 
 ###
 
-<h6 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning: C# .NET Core<br>🎲 Fun fact: The name "C#" was inspired by musical notation. In music, the "sharp" symbol (#) indicates raising a note's pitch. Similarly, C# was meant to raise the programming capabilities of C and C++ languages.</h6>
-###
+<h5 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning: C# .NET Core<br>🎲 Fun fact: The name "C#" was inspired by musical notation. In music, the "sharp" symbol (#) indicates raising a note's pitch. Similarly, C# was meant to raise the programming capabilities of C and C++ languages.</h5>
+
 
 <h2 align="left">🧙‍♂️ I code with</h2>
 
